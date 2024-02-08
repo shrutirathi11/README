@@ -25,6 +25,15 @@ Project Screening:Our platform will curate or screen projects to ensure quality 
 
 Communication Channels:Messaging systems or updates to facilitate communication between creators and backers.
 
+## Progress 
+
+Fully Implemented Features:
+- Start a Fundraiser 
+- Browse Campaign
+
+Partially Implemented Features:
+- Donate
+
 ## Tech Stack
 
 - react.js: Frontend development framework for building Website .

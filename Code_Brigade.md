@@ -36,9 +36,12 @@ Partially Implemented Features:
 
 ## Tech Stack
 
-- react.js: Frontend development framework for building Website .
-- Blockchain : For backend development and Smart Contract 
-
+Frontend:
+- react.js: Frontend development framework for building Website.
+  
+Blockchain:
+- Solidity: For creating Smart Contract.
+  
 ### Team Members
 
 - Piyush Pathak

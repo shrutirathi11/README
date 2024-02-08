@@ -9,9 +9,21 @@ RaiseCap is a Trustworthy Crowdfunding project built by Team 'Code-Brigade' unde
 
 ## Features
 
-- Start Fundraiser: This feature allows NGOs/Individuals to raise funds for their campaigns
-- Browse Camapign: This feature allows user/donors to search for a campaign 
-- Donate: This feature allows user to donate for a campaign. It is integrated with Browse Campaign
+Our Crowdfunding websites cover a broad spectrum of projects, including Medical,Food and hunger  education, and more
+
+Global Reach:Accessibility for creators and backers worldwide, fostering a global community.
+
+Transparent Funding Progress:Real-time tracking of funding progress to encourage backers and provide transparency.
+
+Time Limits:Projects typically have a set timeframe for fundraising, creating urgency.
+
+Regulatory Compliance:Adherence to legal regulations and compliance, especially for equity crowdfunding platforms.
+
+## Future Scope
+
+Project Screening:Our platform will curate or screen projects to ensure quality and legitimacy.
+
+Communication Channels:Messaging systems or updates to facilitate communication between creators and backers.
 
 ## Tech Stack
 
